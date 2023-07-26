@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pablosatorre&label=Profile%20views&color=0e75b6&style=flat" alt="pablosatorre" /> </p>
 
-- 🔭 I'm currently working lead developer on [El Regreso RP](https://elregresorp.es/)
+- 🔭 I'm currently lead developer of [El Regreso RP](https://elregresorp.es/)
 
 - 🌱 I’m currently learning **React, Sass**
 
