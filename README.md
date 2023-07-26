@@ -5,7 +5,7 @@
 
 - 🔭 I'm currently lead developer of [El Regreso RP](https://elregresorp.es/)
 
-- 🌱 I’m currently learning **React, Sass**
+- 🌱 Actually learning **React, Sass**
 
 - 💬 Ask me about **Fivem, Lua**
 
