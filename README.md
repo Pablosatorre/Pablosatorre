@@ -13,6 +13,16 @@
 
 - ⚡ Fun fact **Eager to learn**
 
+
+# Projects I'm working on
+<p align="left">
+- [TrickorTreat Visual Factory](https://trickortreatvisualfactory.com/)
+- [El Regreso RP](https://elregresorp.es/)
+- [RaidZ](https://discord.gg/el-regreso-rp-885281012555341844)
+- [Pixel Labs](https://pixel-labs.tebex.io/)
+
+</p>
+
 # Connect with me:
 <p align="left">
 <a href="https://twitter.com/pablosatorre1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pablosatorre1" height="30" width="40" /></a>
