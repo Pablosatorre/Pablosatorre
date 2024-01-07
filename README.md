@@ -16,9 +16,13 @@
 
 # Projects I'm working on
 <p align="left">
+  
 - [TrickorTreat Visual Factory](https://trickortreatvisualfactory.com/)
+  
 - [El Regreso RP](https://elregresorp.es/)
+- 
 - [RaidZ](https://discord.gg/el-regreso-rp-885281012555341844)
+- 
 - [Pixel Labs](https://pixel-labs.tebex.io/)
 
 </p>
