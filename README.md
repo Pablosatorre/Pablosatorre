@@ -17,10 +17,10 @@
 # Projects I'm working on
 <p align="left">
   
-- [TrickorTreat Visual Factory](https://trickortreatvisualfactory.com/) Trickortreat visual factory is a creative design media lab based in Los Angeles and Mallorca, Spain.
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pablosatorre1" height="30" width="40" /> - [TrickorTreat Visual Factory](https://trickortreatvisualfactory.com/) Trickortreat visual factory is a creative design media lab based in Los Angeles and Mallorca, Spain.
 we specialize in custom web design & image branding since 2004.
   
-- [El Regreso RP](https://elregresorp.es/) El Regreso RP is a Fivem roleplay serverm focused on an arcade role-playing game and a good place for everyone to enjoy to the
+- [El Regreso RP](https://elregresorp.es/) El Regreso RP is a Fivem roleplay server focused on an arcade role-playing game and a good place for everyone to enjoy to the
  fullest along with the best systems on the platform, maded by our developers.
   
 - [RaidZ](https://discord.gg/el-regreso-rp-885281012555341844) RaidZ it a Fivem server inspired on Rust, Dayz and Escape From tarkov getting the best mechanics of these
