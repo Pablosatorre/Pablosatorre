@@ -17,21 +17,21 @@
 # Projects I'm working on:
 <p align="left">
   
-<img align="center" src="https://trickortreatvisualfactory.com/pablo/api/proyects/roundedtot.png" alt="pablosatorre1" height="50" width="50" /> <space> [**TrickorTreat Visual Factory:**](https://trickortreatvisualfactory.com/) Trickortreat visual factory is a creative design media lab based in Los Angeles and Mallorca, Spain.
+<img align="center" src="https://trickortreatvisualfactory.com/pablo/api/proyects/roundedtot.png" alt="tot" height="50" width="50" /> &nbsp;&nbsp;&nbsp;&nbsp; [**TrickorTreat Visual Factory:**](https://trickortreatvisualfactory.com/) Trickortreat visual factory is a creative design media lab based in Los Angeles and Mallorca, Spain.
 we **specialize in custom web design & image branding** since 2004.
   
-<img align="center" src="https://trickortreatvisualfactory.com/pablo/api/proyects/regreso.png" alt="pablosatorre1" height="38" width="76" /> [**El Regreso RP:**](https://elregresorp.es/) El Regreso RP is a Fivem roleplay server focused on an **arcade role-playing game** and a good place for everyone to enjoy to the
+<img align="center" src="https://trickortreatvisualfactory.com/pablo/api/proyects/regreso.png" alt="regres" height="38" width="76" /> &nbsp;[**El Regreso RP:**](https://elregresorp.es/) El Regreso RP is a Fivem roleplay server focused on an **arcade role-playing game** and a good place for everyone to enjoy to the
  fullest along with the best systems on the platform, maded by our developers.
   
-<img align="center" src="https://trickortreatvisualfactory.com/pablo/api/proyects/raidz.png" alt="pablosatorre1" height="48" width="66" /> [**RaidZ:**](https://discord.gg/el-regreso-rp-885281012555341844) RaidZ it a Fivem server **inspired on Rust**, **Dayz and Escape From tarkov** getting the best mechanics of these
+<img align="center" src="https://trickortreatvisualfactory.com/pablo/api/proyects/raidz.png" alt="raidz" height="48" width="66" />&nbsp;&nbsp;&nbsp;&nbsp; [**RaidZ:**](https://discord.gg/el-regreso-rp-885281012555341844) RaidZ it a Fivem server **inspired on Rust**, **Dayz and Escape From tarkov** getting the best mechanics of these
 games to make an unique experience, combining mechanics such as being able to build a revolutionary pvp system among many others.
   
-<img align="center" src="https://trickortreatvisualfactory.com/pablo/api/proyects/pixel.png" alt="pablosatorre1" height="40" width="40" /> [**Pixel Labs:**](https://pixel-labs.tebex.io/) Pixel Labs it was a Fivem scripts store, We focus on offering customers **exclusive products** to improve the content on their servers.
+<img align="center" src="https://trickortreatvisualfactory.com/pablo/api/proyects/pixel.png" alt="pixle" height="40" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [**Pixel Labs:**](https://pixel-labs.tebex.io/) Pixel Labs it was a Fivem scripts store, We focus on offering customers **exclusive products** to improve the content on their servers.
 
 </p>
 
 # Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,sass,lua,flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,php,js,ts,react,nuxt,sass,lua,figma,xd,pr&perline=9)](https://skillicons.dev)
 
 # Connect with me:
 <p align="left">
@@ -41,5 +41,8 @@ games to make an unique experience, combining mechanics such as being able to bu
 <a href="https://discord.gg/https://discord.gg/elregresorp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/elregresorp" height="30" width="40" /></a>
 </p>
 
-# GitHub Stats:
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pablosatorre&show_icons=true&theme=dark&title_color=1387ec&hide_border=true&locale=en&layout=compact" alt="pablosatorre" /></p>
+<details>
+<summary>**Github Stats**</summary>
+<a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=pablosatorre&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablosatorre&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+</details>
