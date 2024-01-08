@@ -31,7 +31,7 @@ games to make an unique experience, combining mechanics such as being able to bu
 </p>
 
 # Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,sass,lua,flutter&perline=3)](https://skillicons.dev)
 
 # Connect with me:
 <p align="left">
