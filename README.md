@@ -17,13 +17,16 @@
 # Projects I'm working on
 <p align="left">
   
-- [TrickorTreat Visual Factory](https://trickortreatvisualfactory.com/)
+- [TrickorTreat Visual Factory](https://trickortreatvisualfactory.com/) Trickortreat visual factory is a creative design media lab based in Los Angeles and Mallorca, Spain.
+we specialize in custom web design & image branding since 2004.
   
-- [El Regreso RP](https://elregresorp.es/)
-- 
-- [RaidZ](https://discord.gg/el-regreso-rp-885281012555341844)
-- 
-- [Pixel Labs](https://pixel-labs.tebex.io/)
+- [El Regreso RP](https://elregresorp.es/) El Regreso RP is a Fivem roleplay serverm focused on an arcade role-playing game and a good place for everyone to enjoy to the
+ fullest along with the best systems on the platform, maded by our developers.
+  
+- [RaidZ](https://discord.gg/el-regreso-rp-885281012555341844) RaidZ it a Fivem server inspired on Rust, Dayz and Escape From tarkov getting the best mechanics of these
+games to make an unique experience, combining mechanics such as being able to build a revolutionary pvp system among many others.
+  
+- [Pixel Labs](https://pixel-labs.tebex.io/) Pixel Labs it was a Fivem scripts store, We focus on offering customers exclusive products to improve the content on their servers.
 
 </p>
 
