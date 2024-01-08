@@ -17,16 +17,16 @@
 # Projects I'm working on
 <p align="left">
   
-<img align="center" src="https://trickortreatvisualfactory.com/pablo/api/proyects/roundedtot.png" alt="pablosatorre1" height="50" width="50" /> [**TrickorTreat Visual Factory**](https://trickortreatvisualfactory.com/) Trickortreat visual factory is a creative design media lab based in Los Angeles and Mallorca, Spain.
+<img align="center" src="https://trickortreatvisualfactory.com/pablo/api/proyects/roundedtot.png" alt="pablosatorre1" height="50" width="50" /> [**TrickorTreat Visual Factory:**](https://trickortreatvisualfactory.com/) Trickortreat visual factory is a creative design media lab based in Los Angeles and Mallorca, Spain.
 we specialize in custom web design & image branding since 2004.
   
-<img align="center" src="https://trickortreatvisualfactory.com/pablo/api/proyects/regreso.png" alt="pablosatorre1" height="50" width="62" /> [El Regreso RP](https://elregresorp.es/) El Regreso RP is a Fivem roleplay server focused on an arcade role-playing game and a good place for everyone to enjoy to the
+<img align="center" src="https://trickortreatvisualfactory.com/pablo/api/proyects/regreso.png" alt="pablosatorre1" height="48" width="60" /> [**El Regreso RP:**](https://elregresorp.es/) El Regreso RP is a Fivem roleplay server focused on an arcade role-playing game and a good place for everyone to enjoy to the
  fullest along with the best systems on the platform, maded by our developers.
   
-<img align="center" src="https://trickortreatvisualfactory.com/pablo/api/proyects/raidz.png" alt="pablosatorre1" height="50" width="56" /> [RaidZ](https://discord.gg/el-regreso-rp-885281012555341844) RaidZ it a Fivem server inspired on Rust, Dayz and Escape From tarkov getting the best mechanics of these
+<img align="center" src="https://trickortreatvisualfactory.com/pablo/api/proyects/raidz.png" alt="pablosatorre1" height="50" width="56" /> [**RaidZ:**](https://discord.gg/el-regreso-rp-885281012555341844) RaidZ it a Fivem server inspired on Rust, Dayz and Escape From tarkov getting the best mechanics of these
 games to make an unique experience, combining mechanics such as being able to build a revolutionary pvp system among many others.
   
-<img align="center" src="https://trickortreatvisualfactory.com/pablo/api/proyects/pixel.png" alt="pablosatorre1" height="50" width="50" /> [Pixel Labs](https://pixel-labs.tebex.io/) Pixel Labs it was a Fivem scripts store, We focus on offering customers exclusive products to improve the content on their servers.
+<img align="center" src="https://trickortreatvisualfactory.com/pablo/api/proyects/pixel.png" alt="pablosatorre1" height="50" width="50" /> [**Pixel Labs:**](https://pixel-labs.tebex.io/) Pixel Labs it was a Fivem scripts store, We focus on offering customers exclusive products to improve the content on their servers.
 
 </p>
 
