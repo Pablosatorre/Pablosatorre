@@ -31,7 +31,7 @@ games to make an unique experience, combining mechanics such as being able to bu
 </p>
 
 # Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=html,css,php,js,ts,react,nuxt,sass,lua,figma,xd,pr&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,php,js,ts,react,nuxt,sass,lua,mysql,figma,xd,pr&perline=10)](https://skillicons.dev)
 
 # Connect with me:
 <p align="left">
