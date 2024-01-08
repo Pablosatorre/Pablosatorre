@@ -41,6 +41,7 @@ games to make an unique experience, combining mechanics such as being able to bu
 <a href="https://discord.gg/https://discord.gg/elregresorp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/elregresorp" height="30" width="40" /></a>
 </p>
 
+<br>
 <details>
   <summary>Github Stats</summary>
   
