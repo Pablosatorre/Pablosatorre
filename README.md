@@ -20,7 +20,7 @@
 <img align="center" src="https://trickortreatvisualfactory.com/pablo/api/proyects/roundedtot.png" alt="pablosatorre1" height="50" width="50" /> [**TrickorTreat Visual Factory:**](https://trickortreatvisualfactory.com/) Trickortreat visual factory is a creative design media lab based in Los Angeles and Mallorca, Spain.
 we specialize in custom web design & image branding since 2004.
   
-<img align="center" src="https://trickortreatvisualfactory.com/pablo/api/proyects/regreso.png" alt="pablosatorre1" height="40" width="70" /> [**El Regreso RP:**](https://elregresorp.es/) El Regreso RP is a Fivem roleplay server focused on an arcade role-playing game and a good place for everyone to enjoy to the
+<img align="center" src="https://trickortreatvisualfactory.com/pablo/api/proyects/regreso.png" alt="pablosatorre1" height="40" width="75" /> [**El Regreso RP:**](https://elregresorp.es/) El Regreso RP is a Fivem roleplay server focused on an arcade role-playing game and a good place for everyone to enjoy to the
  fullest along with the best systems on the platform, maded by our developers.
   
 <img align="center" src="https://trickortreatvisualfactory.com/pablo/api/proyects/raidz.png" alt="pablosatorre1" height="40" width="56" /> [**RaidZ:**](https://discord.gg/el-regreso-rp-885281012555341844) RaidZ it a Fivem server inspired on Rust, Dayz and Escape From tarkov getting the best mechanics of these
