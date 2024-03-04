@@ -39,6 +39,7 @@ games to make an unique experience, combining mechanics such as being able to bu
 <a href="https://es.stackoverflow.com/users/285151/pablosatorre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19096364" height="30" width="40" /></a>
 <a href="https://instagram.com/pablo_03_cg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pablo_03_cg" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/elregresorp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/elregresorp" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@not_pablo_5554" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="notpablo" height="30" width="40" /></a>
 </p>
 
 <br>
