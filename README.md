@@ -26,7 +26,7 @@ we **specialize in custom web design & image branding** since 2004.
 <img align="center" src="https://trickortreatvisualfactory.com/pablo/api/proyects/raidz.png" alt="raidz" height="48" width="66" />&nbsp;&nbsp;&nbsp;&nbsp; [**RaidZ:**](https://discord.gg/el-regreso-rp-885281012555341844) RaidZ its a Fivem server **inspired on Rust**, **Dayz and Escape From tarkov** getting the best mechanics of these
 games to make an unique experience, combining mechanics such as being able to build a revolutionary pvp system among many others.
   
-<img align="center" src="https://trickortreatvisualfactory.com/pablo/api/proyects/pixel.png" alt="pixle" height="40" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [**Pixel Labs:**](https://pixel-labs.tebex.io/) Pixel Labs it was a Fivem scripts store, We focus on offering customers **exclusive products** to improve the content on their servers.
+<img align="center" src="https://trickortreatvisualfactory.com/pablo/api/proyects/pixel.png" alt="pixle" height="40" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [**Pixel Labs:**](https://pixel-labs.tebex.io/) Pixel Labs was a Fivem scripts store, We focus on offering customers **exclusive products** to improve the content on their servers.
 
 </p>
 
