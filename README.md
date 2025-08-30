@@ -29,11 +29,18 @@ I enjoy building complete solutions: from infrastructure and network security to
 </div>
 
 <div align="center">
-  <a href="https://playsafe.dev/" target="_blank">
-    <img src="https://i.postimg.cc/x8rb7HXK/PLAYSAFE-banner-10.jpg" height="150" style="border-radius:15px;" alt="PlaySafe" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://elregresorp.es/" target="_blank">
-    <img src="https://i.postimg.cc/s2vQgKSY/BANNER-DISCORD.png" height="150" style="border-radius:15px;" alt="El Regreso RP" />
-  </a>
+  <table style="border: none;">
+    <tr>
+      <td style="border: none; padding: 10px;">
+        <a href="https://playsafe.dev/" target="_blank">
+          <img src="https://i.postimg.cc/x8rb7HXK/PLAYSAFE-banner-10.jpg" height="150" alt="PlaySafe" />
+        </a>
+      </td>
+      <td style="border: none; padding: 10px;">
+        <a href="https://elregresorp.es/" target="_blank">
+          <img src="https://i.postimg.cc/s2vQgKSY/BANNER-DISCORD.png" height="150" alt="El Regreso RP" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
