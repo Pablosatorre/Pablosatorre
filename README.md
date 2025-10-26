@@ -41,6 +41,11 @@ I enjoy building complete solutions: from infrastructure and network security to
           <img src="https://i.postimg.cc/s2vQgKSY/BANNER-DISCORD.png" height="150" alt="El Regreso RP" />
         </a>
       </td>
+      <td style="border: none; padding: 10px;">
+        <a href="https://discord.gg/topleague" target="_blank">
+          <img src="https://i.postimg.cc/4dL264Hs/Banner-Discord-Personal-Topleague.png" height="150" alt="El Regreso RP" />
+        </a>
+      </td>
     </tr>
   </table>
 </div>
